@@ -1,0 +1,15 @@
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.exe
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.deps.json
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.runtimeconfig.json
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.dll
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.pdb
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.AssemblyInfoInputs.cache
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.AssemblyInfo.cs
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.csproj.CoreCompileInputs.cache
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.sourcelink.json
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.dll
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\refint\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.dll
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.pdb
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.genruntimeconfig.cache
+C:\c#\exp_6\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function\obj\Debug\net8.0\ref\19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.dll
